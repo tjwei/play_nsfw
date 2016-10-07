@@ -62,59 +62,59 @@ This mock jpeg encoder imporves the result but is not accurate enough. Therefore
 
 The code is in [Inverse-NSFW.ipynb](Inverse-NSFW.ipynb)
 Followings are some results: 
-<table><tr>
+<table>
+<tbody>
+<tr>
 <th>Original</th><th>Inversed</th></tr>
 <tr>
-<td>
-![](/home/tjw/src/play_nsfw/output/starry_night-nsfw-0.png)   
+<td><img src="/home/tjw/src/play_nsfw/output/starry_night-nsfw-0.png" />   
 
 NSFW score: `0.0018048202619`
 </td>
-<td>
-![](/home/tjw/src/play_nsfw/output/starry_night-nsfw-8000.png)   
+<td><img src="/home/tjw/src/play_nsfw/output/starry_night-nsfw-8000.png" />   
 
-NSFW score: `0.983393967152`
-8000 iterations
+NSFW score: `0.983393967152`  
+(8000 iterations)
 </td>
 </tr>
 <tr>
 <td>
-![](/home/tjw/src/play_nsfw/output/the_scream-nsfw-0.png)   
+<img src="/home/tjw/src/play_nsfw/output/the_scream-nsfw-0.png" /> 
 
 NSFW score: `0.00257238722406`
 </td>
 <td>
-![](/home/tjw/src/play_nsfw/output/the_scream-nsfw-8000.png)   
+<img src="/home/tjw/src/play_nsfw/output/the_scream-nsfw-8000.png" />  
 
 NSFW score: `0.983393967152`
-8000 iterations
+(8000 iterations)
 </td>
 </tr>
 <tr>
 <td>
-![](/home/tjw/src/play_nsfw/output/flickr2-nsfw-0.png)   
+<img src="/home/tjw/src/play_nsfw/output/flickr2-nsfw-0.png" />  
 
 NSFW score: `0.952058911324`
 </td>
 <td>
-![](/home/tjw/src/play_nsfw/output/flickr2-nsfw-2000.png)   
+<img src="/home/tjw/src/play_nsfw/output/flickr2-nsfw-2000.png" /> 
 
-NSFW score: `0.0292308945209`
-2000 iterations
+NSFW score: `0.0292308945209` 
+(2000 iterations)
 </td>
 </tr>
 <tr>
 <td>
-![](/home/tjw/src/play_nsfw/output/flickr-nsfw-0.png)   
+<img src="/home/tjw/src/play_nsfw/output/flickr-nsfw-0.png" />  
 
 NSFW score: `0.951349616051`
 </td>
 <td>
-![](/home/tjw/src/play_nsfw/output/flickr-nsfw-1000.png)   
+<img src="/home/tjw/src/play_nsfw/output/flickr-nsfw-1000.png" />  
 
 NSFW score: `0.0644422993064`
-1000 iterations
+(1000 iterations)
 </td>
 </tr>
-<
+</tbody>
 </table>
