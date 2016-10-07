@@ -72,43 +72,43 @@ Followings are some results:
 <th>Original</th><th>Inversed</th></tr>
 <tr>
 <td><img src="output/starry_night-nsfw-0.png" />   <br />
-NSFW score: `0.0018048202619`
+NSFW score: 0.0018048202619
 </td>
 <td><img src="output/starry_night-nsfw-8000.png" />   <br />
-NSFW score: `0.983393967152`  
+NSFW score: 0.983393967152  
 (8000 iterations)
 </td>
 </tr>
 <tr>
 <td>
 <img src="output/the_scream-nsfw-0.png" />  <br />
-NSFW score: `0.00257238722406`
+NSFW score: 0.00257238722406
 </td>
 <td>
 <img src="output/the_scream-nsfw-8000.png" />  <br />
-NSFW score: `0.983393967152`
+NSFW score: 0.983393967152
 (8000 iterations)
 </td>
 </tr>
 <tr>
 <td>
 <img src="output/flickr2-nsfw-0.png" />  <br />
-NSFW score: `0.952058911324`
+NSFW score: 0.952058911324
 </td>
 <td>
 <img src="output/flickr2-nsfw-2000.png" /> <br />
-NSFW score: `0.0292308945209` 
+NSFW score: 0.0292308945209 
 (2000 iterations)
 </td>
 </tr>
 <tr>
 <td>
 <img src="output/flickr-nsfw-0.png" />  <br />
-NSFW score: `0.951349616051`
+NSFW score: 0.951349616051
 </td>
 <td>
 <img src="output/flickr-nsfw-1000.png" />  <br />
-NSFW score: `0.0644422993064`
+NSFW score: 0.0644422993064
 (1000 iterations)
 </td>
 </tr>
