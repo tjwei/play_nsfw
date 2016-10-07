@@ -71,59 +71,43 @@ Followings are some results:
 <tr>
 <th>Original</th><th>Inversed</th></tr>
 <tr>
-<td><img src="output/starry_night-nsfw-0.png" />   
-
-
+<td><img src="output/starry_night-nsfw-0.png" />   <br />
 NSFW score: `0.0018048202619`
 </td>
-<td><img src="output/starry_night-nsfw-8000.png" />   
-
-
+<td><img src="output/starry_night-nsfw-8000.png" />   <br />
 NSFW score: `0.983393967152`  
 (8000 iterations)
 </td>
 </tr>
 <tr>
 <td>
-<img src="output/the_scream-nsfw-0.png" />  
-
-
+<img src="output/the_scream-nsfw-0.png" />  <br />
 NSFW score: `0.00257238722406`
 </td>
 <td>
-<img src="output/the_scream-nsfw-8000.png" />  
-
-
+<img src="output/the_scream-nsfw-8000.png" />  <br />
 NSFW score: `0.983393967152`
 (8000 iterations)
 </td>
 </tr>
 <tr>
 <td>
-<img src="output/flickr2-nsfw-0.png" />  
-
-
+<img src="output/flickr2-nsfw-0.png" />  <br />
 NSFW score: `0.952058911324`
 </td>
 <td>
-<img src="output/flickr2-nsfw-2000.png" /> 
-
-
+<img src="output/flickr2-nsfw-2000.png" /> <br />
 NSFW score: `0.0292308945209` 
 (2000 iterations)
 </td>
 </tr>
 <tr>
 <td>
-<img src="output/flickr-nsfw-0.png" />  
-
-
+<img src="output/flickr-nsfw-0.png" />  <br />
 NSFW score: `0.951349616051`
 </td>
 <td>
-<img src="output/flickr-nsfw-1000.png" />  
-
-
+<img src="output/flickr-nsfw-1000.png" />  <br />
 NSFW score: `0.0644422993064`
 (1000 iterations)
 </td>
@@ -133,25 +117,28 @@ NSFW score: `0.0644422993064`
 
 Image license
 
+Under the directory img:
 Many image files are from https://github.com/jcjohnson/neural-style and some are public domain
 
-CC-BY
+* CC-BY
 https://www.flickr.com/photos/two/236883835/in/photolist-mW6j4-mW6kn-Jy6XP-Jy9fR-JxQD8-mW6gp-JxQGc-Jy5Xf-Jy3ES-mW6fr-Jy9eM-mW6hW-JxQqD-JxMdm-mW6nF-JxQtD-JxQxR-mW6mA-JxLZS-Jy72p-JxM2N-Jy3Hh-JxLU7-JxLWb-JxQsz-oH3ixB-4Nri37-JxQJr-JxQFe-Jy3AY-JxMcq-Jy3xG-JxQvT-Jy95i-Jy99n-JxQz2-a97MmE-JxQm6-Jy5V5-a97Nqb-a97PVu-Jy97c-a94ZyK-ADmwE6-B3g6KV-ADmtTV-BysQ61-a97Ptd-a94Zex-dwVdG
 ndhu
 
-CC-BY
+* CC-BY
 https://www.flickr.com/photos/jphotos/5998521863/in/photolist-mW6gp-JxQGc-Jy5Xf-Jy3ES-mW6fr-Jy9eM-mW6hW-JxQqD-JxMdm-mW6nF-JxQtD-JxQxR-mW6mA-JxLZS-Jy72p-JxM2N-Jy3Hh-JxLU7-JxLWb-JxQsz-oH3ixB-4Nri37-JxQJr-JxQFe-Jy3AY-JxMcq-Jy3xG-JxQvT-Jy95i-Jy99n-JxQz2-a97MmE-JxQm6-Jy5V5-a97Nqb-a97PVu-Jy97c-a94ZyK-ADmwE6-B3g6KV-ADmtTV-BysQ61-a97Ptd-a94Zex-dwVdG-fJCm8H-ih4o2w-farbgP-ez8gpV-a244iL
 ndhu2
 
-CC-BY https://www.flickr.com/photos/kurtbudiarto/7257851556/in/photolist-c4mopE-jZZkdx-8bohuZ-bjLvVe-c4wRru-gkp48t-hPNbbL-qfySJz-c84E3h-fBV6ve-aijVu7-fCaHPs-qZ7XnX-f8zn77-eQRUQ5-695MbG-dQNbTm-rowN34-6o4FFz-d3MjtL-9htwN2-r6Yib1-fCau8q-fCaCh9-551xgk-bkueEX-fBVtqt-pbJvac-fCbdY9-aRQ2oH-oUai6n-fCbaRs-fKzB9m-fCbmqA-7kBUGU-eX5Ce9-fBVu9x-ftqE1w-aihyDg-bku5n4-54rawt-nixm7H-dDjykx-55JGBX-c4mnWy-bkudkH-pRMC8L-55JGWa-5A9m5g-6uijiE/
+* CC-BY https://www.flickr.com/photos/kurtbudiarto/7257851556/in/photolist-c4mopE-jZZkdx-8bohuZ-bjLvVe-c4wRru-gkp48t-hPNbbL-qfySJz-c84E3h-fBV6ve-aijVu7-fCaHPs-qZ7XnX-f8zn77-eQRUQ5-695MbG-dQNbTm-rowN34-6o4FFz-d3MjtL-9htwN2-r6Yib1-fCau8q-fCaCh9-551xgk-bkueEX-fBVtqt-pbJvac-fCbdY9-aRQ2oH-oUai6n-fCbaRs-fKzB9m-fCbmqA-7kBUGU-eX5Ce9-fBVu9x-ftqE1w-aihyDg-bku5n4-54rawt-nixm7H-dDjykx-55JGBX-c4mnWy-bkudkH-pRMC8L-55JGWa-5A9m5g-6uijiE/
 smile face
 
 A few more CC-BY image from flickr used in README.ME and [open_nsfw.ipynb](open_nsfw.ipynb)
-https://www.flickr.com/photos/tucia/3894751161/in/photolist-6WaBQ6-588EVg-qwe3vP-zSLV3m-aA4SSu-9y8bQk-nAmQBE-9dKP36-5eE3sk-ix9v4Y-5xyi5X-ix9QFH-iRbGky-cERRw-abHz5r-cETc2-cxJFo-ofsSfb-4SjUcK-9dKSQ4-8Ks5DP-HE8nP-dHBe6D-6wethg-m13M1-9pSDiL-4XWM5o-b4or4M-97oDt9-qkZDQZ-ix9Gzq-aA5bhb-a6sU1N-ix9m32-aVPgQH-9g5D3o-7zmWKD-dx8m8Z-9dP1tf-7yNMYU-bRxwc-d5cdPb-cERRG-9iQEMN-9dL1Kc-9g5Fi7-5cRoXX-94dX3M-9dNYjw-94h3q9
 
-https://www.flickr.com/photos/kunshou/132063430/in/photolist-cERRG-9iQEMN-9dL1Kc-9g5Fi7-5cRoXX-94dX3M-9dNYjw-94h3q9-ix9GKW-brsMHh-Hh1XVY-qe7oHB-pQtsm-byXe9T-bm3qLW-768R64-bm3nF3-pxfXAS-jmfdbr-yUpbt-7kMWwA-pyRVUp-dFNmA8-bUsjm5-HZjtsw-7BLvmR-8d9xAT-bUsjns-8CnDLT-8ni3to-q1gEN-iR3aHN-ix9mSi-dDTU34-8CqME1-9pRJdE-6Gvex5-d5h1c7-8RGZzD-C9z6j-pYkRyH-8CnE74-byXifz-a7PfwN-cERRC-fy8rD5-dFTL5j-6uXAhQ-pL1fc-7i7pyq/
 
-https://www.flickr.com/photos/rallion/92101780/in/photolist-993DJ-oExkuS-cD1q4s-ht2Y-MYiNfa-MYgXfi-MQDy1H-MN6XqK-LW6zT9-4ipCF-p7L2T-7q1W9-NEefq-5wo6zn-74xiZ2-5xYxek-MWnF1e-MtktdN-Mtkmd5/
+* https://www.flickr.com/photos/tucia/3894751161/in/photolist-6WaBQ6-588EVg-qwe3vP-zSLV3m-aA4SSu-9y8bQk-nAmQBE-9dKP36-5eE3sk-ix9v4Y-5xyi5X-ix9QFH-iRbGky-cERRw-abHz5r-cETc2-cxJFo-ofsSfb-4SjUcK-9dKSQ4-8Ks5DP-HE8nP-dHBe6D-6wethg-m13M1-9pSDiL-4XWM5o-b4or4M-97oDt9-qkZDQZ-ix9Gzq-aA5bhb-a6sU1N-ix9m32-aVPgQH-9g5D3o-7zmWKD-dx8m8Z-9dP1tf-7yNMYU-bRxwc-d5cdPb-cERRG-9iQEMN-9dL1Kc-9g5Fi7-5cRoXX-94dX3M-9dNYjw-94h3q9
 
-https://www.flickr.com/photos/saptel/27120530295/in/photolist-HjxNMV-tMEhp-4963mP-d2fyV7-7rrY29-ePiCT8-8V32rp-Hbbj87-4zXDsd-6eUu8C-bmmaR9-FGFa8-6HYTjR-7tDxUe-Gp3hDo-5vNaDr-aB4WKE-HdvA5B-arZFjR-7f7aDc-nsECZs-4UqPbz-7ijaoR-HjxQ7D-6Qzppw-GUjLCE-4hbZGw-4rzLp6-57seUp-4CoB7v-dvx4qL-6jBvvt-7oKZUu-ndSGh-4dFEac-a8iWP4-4u3DFu-qN4wmN-2vL8H-4dfgqw-XUhyq-4XmiXD-am1kTw-5Rw36b-nXeq97-8oLnz5-aRtaD-cnXUFu-BuQbV-98yiXk
+* https://www.flickr.com/photos/kunshou/132063430/in/photolist-cERRG-9iQEMN-9dL1Kc-9g5Fi7-5cRoXX-94dX3M-9dNYjw-94h3q9-ix9GKW-brsMHh-Hh1XVY-qe7oHB-pQtsm-byXe9T-bm3qLW-768R64-bm3nF3-pxfXAS-jmfdbr-yUpbt-7kMWwA-pyRVUp-dFNmA8-bUsjm5-HZjtsw-7BLvmR-8d9xAT-bUsjns-8CnDLT-8ni3to-q1gEN-iR3aHN-ix9mSi-dDTU34-8CqME1-9pRJdE-6Gvex5-d5h1c7-8RGZzD-C9z6j-pYkRyH-8CnE74-byXifz-a7PfwN-cERRC-fy8rD5-dFTL5j-6uXAhQ-pL1fc-7i7pyq/
+
+* https://www.flickr.com/photos/rallion/92101780/in/photolist-993DJ-oExkuS-cD1q4s-ht2Y-MYiNfa-MYgXfi-MQDy1H-MN6XqK-LW6zT9-4ipCF-p7L2T-7q1W9-NEefq-5wo6zn-74xiZ2-5xYxek-MWnF1e-MtktdN-Mtkmd5/
+
+* https://www.flickr.com/photos/saptel/27120530295/in/photolist-HjxNMV-tMEhp-4963mP-d2fyV7-7rrY29-ePiCT8-8V32rp-Hbbj87-4zXDsd-6eUu8C-bmmaR9-FGFa8-6HYTjR-7tDxUe-Gp3hDo-5vNaDr-aB4WKE-HdvA5B-arZFjR-7f7aDc-nsECZs-4UqPbz-7ijaoR-HjxQ7D-6Qzppw-GUjLCE-4hbZGw-4rzLp6-57seUp-4CoB7v-dvx4qL-6jBvvt-7oKZUu-ndSGh-4dFEac-a8iWP4-4u3DFu-qN4wmN-2vL8H-4dfgqw-XUhyq-4XmiXD-am1kTw-5Rw36b-nXeq97-8oLnz5-aRtaD-cnXUFu-BuQbV-98yiXk
 
