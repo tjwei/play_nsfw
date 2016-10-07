@@ -32,11 +32,15 @@ It is the later case.
 
 
 [NSFW-Triangles.ipynb](NSFW-Triangles.ipynb): this is the result for 100 triangles.
-![](/home/tjw/src/play_nsfw/output/nsfw-triangles.png) 
+
+![](output/nsfw-triangles.png) 
+
 NSFW score: `0.989984035492` 
 
 [NSFW-Circles.ipynb](NSFW-Circles.ipynb): this is the result for 50 circles.
-![](/home/tjw/src/play_nsfw/output/nsfw-circle50.png) 
+
+![](output/nsfw-circle50.png) 
+
 NSFW score: `0.999073386192`
 
 Both images have some what significant portion with skin like colors. This might or might not mean something. Other than this, I haven't see any pattern.
@@ -67,11 +71,11 @@ Followings are some results:
 <tr>
 <th>Original</th><th>Inversed</th></tr>
 <tr>
-<td><img src="/home/tjw/src/play_nsfw/output/starry_night-nsfw-0.png" />   
+<td><img src="output/starry_night-nsfw-0.png" />   
 
 NSFW score: `0.0018048202619`
 </td>
-<td><img src="/home/tjw/src/play_nsfw/output/starry_night-nsfw-8000.png" />   
+<td><img src="output/starry_night-nsfw-8000.png" />   
 
 NSFW score: `0.983393967152`  
 (8000 iterations)
@@ -79,12 +83,12 @@ NSFW score: `0.983393967152`
 </tr>
 <tr>
 <td>
-<img src="/home/tjw/src/play_nsfw/output/the_scream-nsfw-0.png" /> 
+<img src="output/the_scream-nsfw-0.png" /> 
 
 NSFW score: `0.00257238722406`
 </td>
 <td>
-<img src="/home/tjw/src/play_nsfw/output/the_scream-nsfw-8000.png" />  
+<img src="output/the_scream-nsfw-8000.png" />  
 
 NSFW score: `0.983393967152`
 (8000 iterations)
@@ -92,12 +96,12 @@ NSFW score: `0.983393967152`
 </tr>
 <tr>
 <td>
-<img src="/home/tjw/src/play_nsfw/output/flickr2-nsfw-0.png" />  
+<img src="output/flickr2-nsfw-0.png" />  
 
 NSFW score: `0.952058911324`
 </td>
 <td>
-<img src="/home/tjw/src/play_nsfw/output/flickr2-nsfw-2000.png" /> 
+<img src="output/flickr2-nsfw-2000.png" /> 
 
 NSFW score: `0.0292308945209` 
 (2000 iterations)
@@ -105,12 +109,12 @@ NSFW score: `0.0292308945209`
 </tr>
 <tr>
 <td>
-<img src="/home/tjw/src/play_nsfw/output/flickr-nsfw-0.png" />  
+<img src="output/flickr-nsfw-0.png" />  
 
 NSFW score: `0.951349616051`
 </td>
 <td>
-<img src="/home/tjw/src/play_nsfw/output/flickr-nsfw-1000.png" />  
+<img src="output/flickr-nsfw-1000.png" />  
 
 NSFW score: `0.0644422993064`
 (1000 iterations)
