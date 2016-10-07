@@ -115,6 +115,10 @@ NSFW score: 0.0644422993064
 </tbody>
 </table>
 
+It seems that it is a bit easier and faster to make images to have low NSFW score than have high NSFW score.
+
+
+
 Image license
 
 Under the directory img:
